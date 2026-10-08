@@ -16,3 +16,4 @@ Image assets for use with AIOMetadata.
 | peacock | [peacock.webp](https://raw.githubusercontent.com/thetoadsage/aiompics/main/peacock.webp) |
 | prime | [prime.webp](https://raw.githubusercontent.com/thetoadsage/aiompics/main/prime.webp) |
 | weekend | [weekend.webp](https://raw.githubusercontent.com/thetoadsage/aiompics/main/weekend.webp) |
+| toadstool | [toadstool.png](https://raw.githubusercontent.com/thetoadsage/aiompics/main/toadstool.png) |
