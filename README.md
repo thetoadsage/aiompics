@@ -17,4 +17,4 @@ Image assets for use with AIOMetadata.
 | prime | [prime.webp](https://raw.githubusercontent.com/thetoadsage/aiompics/main/prime.webp) |
 | weekend | [weekend.webp](https://raw.githubusercontent.com/thetoadsage/aiompics/main/weekend.webp) |
 | toadstool | [toadstool.png](https://raw.githubusercontent.com/thetoadsage/aiompics/main/toadstool.png) |
-| jarvis-kill-me | [jarvis-kill-me.png](https://raw.githubusercontent.com/thetoadsage/aiompics/main/jarvis-kill-me.png) |
+| sprigatito | [sprigatito.png](https://raw.githubusercontent.com/thetoadsage/aiompics/main/sprigatito.png) |
